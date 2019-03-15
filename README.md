@@ -16,9 +16,11 @@ The plugin was developed for Collins Construction (www.collins-construction.com)
 
 6. The teacher opens the spreadsheet to review the student's work, and then enters their grade manually.
 
-## Installation and usage
+## Installation
 
 The plugin uses the standard Moodle plugin installation processes.
+
+## Usage
 
 1. Add a new question to a quiz.
 
