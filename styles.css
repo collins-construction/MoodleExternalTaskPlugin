@@ -1,0 +1,25 @@
+.que.externaltask textarea.qtype_externaltask_response {
+    width: 100%;
+}
+
+.que.externaltask textarea.qtype_externaltask_response.qtype_externaltask_plain {
+    white-space: pre-wrap;
+    font: inherit;
+}
+
+.que.externaltask textarea.qtype_externaltask_response.qtype_externaltask_monospaced {
+    white-space: pre;
+    font-family: Andale Mono, Monaco, Courier New, DejaVu Sans Mono, monospace;
+}
+
+.que.externaltask .qtype_externaltask_response {
+    min-height: 3em;
+}
+
+.que.externaltask .qtype_externaltask_response.readonly {
+    background-color: white;
+}
+
+.que.externaltask div.qtype_externaltask_response textarea {
+    width: 100%;
+}
