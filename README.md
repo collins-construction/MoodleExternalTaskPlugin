@@ -4,13 +4,17 @@ This plugin allows for external tasks to be included in a quiz, followed by manu
 The plugin was developed for Collins Construction (www.collins-construction.com) where it is used to evaluate staff member's mastery of our internal project management and other information management tools.
 
 ## An example application
-Open budget.xlsx and enter a formula in cell D45 which calculates the total value of all products purchased.
+1. The question/task: Open budget.xlsx and enter a formula in cell D45 which calculates the total value of all products purchased.
 
-Once the student has completed the task in Excel, they return to Moodle and tick to indicate that they have completed the task.
+2. The student opens the Excel file and completes the task.
 
-Ticking the box marks the question as attempted.
+3. They return to Moodle and tick to indicate that they have completed the task.
 
-The teacher opens the spreadsheet to review the student's work, and then enters their grade manually.
+4. Ticking the box marks the question as attempted.
+
+5. They submit the quiz
+
+6. The teacher opens the spreadsheet to review the student's work, and then enters their grade manually.
 
 ## Installation and usage
 
