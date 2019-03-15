@@ -34,6 +34,8 @@ The plugin uses the standard Moodle plugin installation processes.
 
 The plugin was started by cloning the Essay question type, as this is (currently) the only question type that allows for manual grading.
 
+The plugin was developed by Academy Smart LTD (https://academysmart.com/).
+
 ## License
 
 
