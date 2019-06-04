@@ -19,7 +19,8 @@
  *
  * @package    qtype
  * @subpackage externaltask
- * @copyright  2005 Mark Nielsen
+ * @copyright  2019 Collins Construction
+ * @copyright  based on work by 2005 Mark Nielsen
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
