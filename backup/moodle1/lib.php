@@ -17,7 +17,8 @@
 /**
  * @package    qtype
  * @subpackage externaltask
- * @copyright  2011 David Mudrak <david@moodle.com>
+ * @copyright  2019 Collins Construction
+ * @copyright  based on work by 2011 David Mudrak <david@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
