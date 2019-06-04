@@ -19,7 +19,8 @@
  *
  * @since      Moodle 3.6
  * @package    qtype_externaltask
- * @copyright  Dongsheng Cai <dongsheng@moodle.com>
+ * @copyright  2019 Collins Construction
+ * @copyright  based on work by Dongsheng Cai <dongsheng@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
