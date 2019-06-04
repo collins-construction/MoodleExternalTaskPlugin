@@ -18,7 +18,8 @@
  * Privacy Subsystem implementation for qtype_externaltask.
  *
  * @package    qtype_externaltask
- * @copyright  2018 Andrew Nicols <andrew@nicols.co.uk>
+ * @copyright  2019 Collins Construction
+ * @copyright  based on work by 2018 Andrew Nicols <andrew@nicols.co.uk>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
