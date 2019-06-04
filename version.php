@@ -27,7 +27,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'qtype_externaltask';
-$plugin->version   = 2019270200;
+$plugin->version   = 2019022700;
 
 $plugin->requires  = 2018112800;
 
