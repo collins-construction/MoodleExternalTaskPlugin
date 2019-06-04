@@ -34,3 +34,4 @@ $plugin->requires  = 2018112800;
 $plugin->maturity  = MATURITY_STABLE;
 
 $plugin->release  = '1.0';
+
