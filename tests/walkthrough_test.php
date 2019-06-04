@@ -18,7 +18,8 @@
  * This file contains tests that walks externaltask questions through some attempts.
  *
  * @package   qtype_externaltask
- * @copyright 2013 The Open University
+ * @copyright  2019 Collins Construction
+ * @copyright  based on work by 2013 The Open University
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
