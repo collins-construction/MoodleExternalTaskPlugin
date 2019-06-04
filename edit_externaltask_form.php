@@ -19,7 +19,8 @@
  *
  * @package    qtype
  * @subpackage externaltask
- * @copyright  2007 Jamie Pratt me@jamiep.org
+ * @copyright  2019 Collins Construction
+ * @copyright  based on work by 2007 Jamie Pratt me@jamiep.org
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
